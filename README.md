@@ -5,7 +5,7 @@
 [![CI](https://github.com/exorrtech/recon-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/exorrtech/recon-toolkit/actions/workflows/ci.yml)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-**Automated attack surface discovery pipeline** by EXORR Security.
+**Automated attack surface discovery pipeline** by ∅ EXORR.
 
 Orchestrates subfinder, httpx, nmap, and nuclei into a single automated recon pipeline. Python CLI with phase-by-phase execution, structured output, and JSON reporting.
 
@@ -142,4 +142,4 @@ pytest tests/ -v
 
 ---
 
-*Walk with the void. EXORR Security*
+*Walk with the void. ∅ EXORR*
