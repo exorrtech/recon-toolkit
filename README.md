@@ -28,6 +28,12 @@ Orchestrates subfinder, httpx, nmap, and nuclei into a single automated recon pi
 
 ---
 
+## Tech Stack
+
+`Python 3.9+` `CLI` `JSON/Markdown/HTML Reporting`
+
+---
+
 ## Installation
 
 ```bash
