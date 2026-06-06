@@ -2,6 +2,7 @@
 
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/exorrtech/recon-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/exorrtech/recon-toolkit/actions/workflows/ci.yml)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
 **Automated attack surface discovery pipeline** by EXORR Security.
@@ -29,6 +30,9 @@ Orchestrates subfinder, httpx, nmap, and nuclei into a single automated recon pi
 ---
 
 ## Tech Stack
+
+`Python 3.9+` `subfinder` `httpx` `nmap` `nuclei` `JSON Reporting`
+
 
 `Python 3.9+` `CLI` `JSON/Markdown/HTML Reporting`
 
